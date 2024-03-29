@@ -20,7 +20,7 @@ https://github.com/denim-bluu/photo_file_sorter/assets/66572804/04500a33-27b5-49
 
 ### Disclaimer
 
-Currently, this tool is pretty basic and only supports .JPG, .JPEG, .RAF and .MOV files. It also doesn't support videos yet. I'm NOT planning to add support for other file types or videos. This is just a mini project I made for fun. Also, this tool will not be responsible for any data loss or corruption. Use it at your own risk.
+Currently, this tool is pretty basic and only supports .JPG, .JPEG, .RAF and .MOV files. I'm **NOT** planning to add support for other file types or videos. This is just a mini project I made for fun. Also, this tool will not be responsible for any data loss or corruption. Use it at your own risk.
 
 ### Installing
 
