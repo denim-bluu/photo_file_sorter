@@ -4,7 +4,7 @@
 
 ### Before
 
-![Before](<assets/스크린샷 2024-03-29 173940.png> | width=100)
+![Before]("assets/스크린샷 2024-03-29 173940.png" | width=100)
 
 ### After
 
