@@ -14,7 +14,7 @@ This is a mini Rust project that sorts photos based on their creation date. It r
 
 ## Video Demo
 
-<video src="assets/녹음 2024-03-29 174317.mov" width="300" />
+https://github.com/denim-bluu/photo_file_sorter/assets/66572804/04500a33-27b5-4960-a1ff-d000f5b36fdd
 
 ## Getting Started
 
