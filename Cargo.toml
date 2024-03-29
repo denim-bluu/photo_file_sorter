@@ -1,0 +1,13 @@
+[package]
+name = "photo_file_sorter"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+chrono = "0.4.37"
+rexif = "0.7.3"
+shellexpand = "3.1.0"
+walkdir = "2.5.0"
+
+[target.x86_64-pc-windows-gnu]
+linker = "x86_64-w64-mingw32-gcc"
