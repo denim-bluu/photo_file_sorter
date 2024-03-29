@@ -4,11 +4,11 @@
 
 ### Before
 
-![Before]("assets/스크린샷 2024-03-29 173940.png" | width=100)
+<img src="assets/스크린샷 2024-03-29 173940.png" width="100">
 
 ### After
 
-![After](<assets/스크린샷 2024-03-29 174337.png> | width=100)
+<img src="assets/스크린샷 2024-03-29 174337.png" width="100">
 
 This is a mini Rust project that sorts photos based on their creation date. It reads the Exif data of the photos and sorts them into folders based on the year and month they were taken. Currently, it supports .JPG, .JPEG, .RAF and .MOV files.
 
