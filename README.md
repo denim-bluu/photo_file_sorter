@@ -14,9 +14,7 @@ This is a mini Rust project that sorts photos based on their creation date. It r
 
 ## Video Demo
 
-<video width="320" height="240" controls>
-  <source src="assets/녹음 2024-03-29 174317.mp4" type="video/mp4">
-</video>
+<video src="assets/녹음 2024-03-29 174317.mov" width="300" />
 
 ## Getting Started
 
